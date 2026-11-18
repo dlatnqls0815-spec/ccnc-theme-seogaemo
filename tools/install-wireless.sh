@@ -51,7 +51,7 @@ fi
 root_dev "/system/bin/sh $ROOT_CMD module list" | grep -E "$MOD_ID|^state=|^detail=" || echo "(이 모듈은 아직 목록에 없음)"
 
 if [ "$cmd" = status ]; then
-    echo "== 겹치는 미디어 모듈 확인 (k8-nowplaying 등)"
+    echo "== 겹치는 미디어 모듈 확인 (Now Playing 등)"
     sh_dev "ls /data/nemesis/apps 2>/dev/null" | grep -i -E "nowplaying" || echo "(nowplaying 패키지 없음)"
     exit 0
 fi
