@@ -11,8 +11,11 @@ HMG-API를 따로 깔지 않고, 서개모를 그대로 둔 채 테마를 쓸 �
 
 ## 바로 받기
 
-[`releases/ccnc-theme-5w-0.1.31.hsm`](releases/ccnc-theme-5w-0.1.31.hsm) (SHA-256는 같은 폴더의 `.sha256` 파일)을 받아
-USB `HSM/` 폴더에 넣거나 `tools/install-wireless.sh`로 설치하세요. 직접 빌드할 필요가 없습니다.
+**USB로 쉽게:** [`ccnc-theme-5w-0.1.31-usb.zip`](releases/ccnc-theme-5w-0.1.31-usb.zip)을 받아 압축을 풀고, 나온 `HSM` 폴더를 USB 맨 위에 복사하세요.
+그다음 서개모 → 모듈 → 추가 → 설치 → 켜기 → 재시작 (자세한 순서는 zip 안의 `설치안내.txt`).
+
+`.hsm` 파일만 필요하면 [`ccnc-theme-5w-0.1.31.hsm`](releases/ccnc-theme-5w-0.1.31.hsm)입니다. SHA-256는 같은 폴더의 `.sha256` 파일에 있습니다.
+직접 빌드할 필요가 없습니다.
 
 ## 상태
 
