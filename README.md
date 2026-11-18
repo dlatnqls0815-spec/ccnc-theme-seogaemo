@@ -4,9 +4,15 @@ blackr의 [ccNC Theme for 5W](https://github.com/b-lack-kr/ccnc-theme-for-5w)(HM
 **HMG-Seogaemo(서개모)** 에서 돌아가는 `.hsm` 모듈로 바꿔 주는 빌드 도구입니다.
 HMG-API를 따로 깔지 않고, 서개모를 그대로 둔 채 테마를 쓸 수 있게 합니다.
 
-> **이 저장소에는 테마 자체가 들어 있지 않습니다.** 원본 테마의 저작권은 blackr에게 있습니다(All rights reserved).
-> 빌드할 때 `tools/fetch_upstream.py`가 원작자의 GitHub 릴리스에서 직접 받아 옵니다.
-> 만든 `.hsm`은 본인 차량에서만 쓰고, 다시 배포하지 마세요.
+> 원본 테마의 저작권은 blackr에게 있습니다(All rights reserved). 이식 소스 저장소에는 테마 파일이 없고,
+> 직접 빌드할 때는 `tools/fetch_upstream.py`가 원작자의 GitHub 릴리스에서 받아 옵니다.
+> 완성된 `.hsm`(원본 테마 코드 포함)은 **원작자에게 재배포 허락을 받아** [`releases/`](releases/)에 올렸습니다.
+> 원작자가 요청하면 내립니다.
+
+## 바로 받기
+
+[`releases/ccnc-theme-5w-0.1.31.hsm`](releases/ccnc-theme-5w-0.1.31.hsm) (SHA-256는 같은 폴더의 `.sha256` 파일)을 받아
+USB `HSM/` 폴더에 넣거나 `tools/install-wireless.sh`로 설치하세요. 직접 빌드할 필요가 없습니다.
 
 ## 상태
 
