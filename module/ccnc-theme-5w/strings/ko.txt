@@ -1,0 +1,5 @@
+name=ccNC 테마 for 5W
+summary=K8 Gen5W 분할화면용 실험 테마
+progress=내비게이션 진행 표시
+restart_note=모듈을 켜거나 끈 뒤, 또는 설정을 바꾼 뒤 헤드유닛을 재시작하세요.
+map_required=서개모에서 현재 차량 맵을 검증한 뒤 모듈을 켜세요.

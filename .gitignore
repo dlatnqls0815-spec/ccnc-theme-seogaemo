@@ -1,0 +1,9 @@
+upstream/
+.build/
+.dex-review/
+.inspection/
+dist/
+__pycache__/
+*.hsm
+*.pem
+*.sig

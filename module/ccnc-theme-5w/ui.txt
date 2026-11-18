@@ -1,0 +1,2 @@
+toggle setting=progress_enabled label=@progress
+info @restart_note

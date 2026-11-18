@@ -1,0 +1,5 @@
+name=ccNC Theme for 5W
+summary=Experimental split-screen theme for the K8 Gen5W
+progress=Navigation progress display
+restart_note=Restart the head unit after switching the module or changing this setting.
+map_required=Verify the current vehicle map in Seogaemo before enabling this module.
